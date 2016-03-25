@@ -10,7 +10,7 @@ that.
 
 Here is my [GitHub](https://github.com/Ethan826), my
 [LinkedIn](https://www.linkedin.com/in/ethan-kent-56b14010), and my
-[résumé](#).
+[résumé](https://flashbangsplat.com/resume).
 
 ### About me
 
@@ -82,8 +82,8 @@ comments. I wrote a Clojure script to build a unified spreadsheet, filter
 against a lengthy regular expression, pull in all related entries, and highlight
 the terms that matched. I wrote a Python script to relabel over a thousand
 PDF exhibits based on a spreadsheet correlating the exhibits’ Bates numbers
-with their exhibit numbers. I also was a member of my firm’s technology
-committee.
+with their exhibit numbers. I am also a member of my [current firm’s](http://www.kelleydrye.com)
+technology committee.
 
 I became serious about trying to change careers. I contemplated attending a
 bootcamp, but between my student loans and my family, it was not practical.
@@ -92,8 +92,8 @@ books and tutorials. I cast a wide net, dabbling in C, C++, Haskell, OCaml, F#,
 and D. I became especially interested in web languages as well as Clojure. As
 I became more focused on changing careers, I enrolled in Udacity and completed
 their Full-Stack Web Developer Nanodegree in one month (it’s scheduled as a
-six-to-nine month course). Most recently, I built a diet tracker app to learn
-Angular 2, Express, and TypeScript.
+six-to-nine month course). Most recently, I built a [diet tracker app](https://flashbangsplat.com/diet-tracker)
+to learn Angular 2, Express, and TypeScript.
 
 ### Flash Bang Splat
 
