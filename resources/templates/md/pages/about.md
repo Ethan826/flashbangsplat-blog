@@ -10,7 +10,7 @@ that.
 
 Here is my [GitHub](https://github.com/Ethan826), my
 [LinkedIn](https://www.linkedin.com/in/ethan-kent-56b14010), and my
-[résumé](https://flashbangsplat.com/resume).
+[résumé](https://flashbangsplat.com/public/resume.pdf).
 
 ### About me
 
