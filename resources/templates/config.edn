@@ -22,6 +22,6 @@
  :disqus-shortname   ""
  :ignored-files      [#"\.#.*" #".*\.swp$"]
  :posts-per-page     5
- :blocks-per-preview 2
- :previews?          false
+ :blocks-per-preview 4
+ :previews?          true
  :clean-urls?        true}

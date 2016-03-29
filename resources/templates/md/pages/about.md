@@ -4,13 +4,27 @@
  :navbar? true}
 
 Welcome to my blog. I am a recovering lawyer who has decided to make the
-jump---from composing briefs with vim and writing scripts to help the paralegal
-wrangle documents---to the career path doing what I actually like. Funny idea,
-that.
+jump to a career path doing what I actually like. Funny idea,
+that. Check out my [blog](https://flashbangsplat.com/blog).
 
 Here is my [GitHub](https://github.com/Ethan826), my
 [LinkedIn](https://www.linkedin.com/in/ethan-kent-56b14010), and my
 [résumé](https://flashbangsplat.com/public/resume.pdf).
+
+### Projects
+
+I have worked on the following projects:
+
+* A ClojureScript/Reagent iterative prisoner’s dilemma simulator ([app](https://flashbangsplat.com/prisoner/) | [code](https://github.com/Ethan826/prisoners-dilemma) | [posts](https://flashbangsplat.com/blog/tags-output/prisoner%E2%80%99s%20dilemma/))
+* A full-stack Angular 2 / TypeScript toy diet tracker app ([app](https://flashbangsplat.com/diet-tracker) | [code](https://github.com/Ethan826/diet-tracker) | [posts](https://flashbangsplat.com/blog/tags-output/diet%20tracker/))
+* Numerous Udacity projects, including—
+    * A Flask app ([code](https://github.com/Ethan826/udacity-catalog))
+    * Expansion and refactoring of a Google App Engine API ([code](https://github.com/Ethan826/udacity-conference))
+    * Extensive refactoring of HTML5 canvas-based 2d video game ([code](https://github.com/Ethan826/udacity-arcade))
+* Numerous one-off scripts and curiosity projects, including—
+    * A Clojure script to calculate the chances that the Cubs would have failed to win the World Series since 1908 ([code](https://gist.github.com/Ethan826/2261d13d467789f2996e))
+    * A Clojure script to consolidate and filter numerous large spreadsheets for a work project, saving several weeks of document review
+    * A Python script to rename numerous documents, saving a paralegal approximatley 20 hours of work
 
 ### About me
 
@@ -99,4 +113,4 @@ to learn Angular 2, Express, and TypeScript.
 
 Flash Bang Splat comes from [this list](http://blog.codinghorror.com/ascii-pronunciation-rules-for-programmers/)
 of slang names for ASCII characters. Flash (#), Bang (!), Splat (\*) has a nice
-ring and tells a short (if ambiguous and possibly woebegone) story.
+ring and tells a short (if ambiguous and possibly woebegone) story. My logo is by [silla_cutie1030](https://www.fiverr.com/silla_cutie1030).

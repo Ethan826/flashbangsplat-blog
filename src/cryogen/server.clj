@@ -24,8 +24,11 @@
 
 (defroutes routes
   (GET "/" [] (redirect (let [config (read-config)]
-                          (path (:blog-prefix config) "/"
-                                (when-not (:clean-urls? config) "index.html")))))
+                          (path (:blog-prefix config) (:page-root-uri config) "/about"
+                                (when-not (:clean-urls? config) "blog/pages-output/about/")))))
+  ;; (GET "/blog" [] (redirect (let [config (read-config)]
+  ;;                         (path (:blog-prefix config) "/"
+  ;;                               (when-not (:clean-urls? config) "index.html")))))
   (route/resources "/")
   (route/not-found "Page not found"))
 
