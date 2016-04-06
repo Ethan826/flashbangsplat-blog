@@ -103,11 +103,12 @@ subscription to *Boy’s Life* magazine. Each issue had a QBasic program
 at the back, which I would faithfully type into our MS-DOS computer. In
 high school, I took AP Computer Science and (previewing both my
 programming and lawyering skills), wrote a TI-83 program that did the
-quadratic formula, returning the simplified roots---an approach that the
-teacher had not thought to ban. During college, I watched ZDTV
-religiously and took particular interest in the technologies used in
-airliners. As a flight instructor I wrote my own website in Notepad. And
-in law school, I worked on the Journal of Law and Technology.
+quadratic formula for me in my math class, returning the simplified
+roots—an approach that the teacher had not thought to ban. During
+college, I watched ZDTV religiously and took particular interest in the
+technologies used in airliners. As a flight instructor I wrote my own
+website in Notepad. And in law school, I worked on the Journal of Law
+and Technology.
 
 As a lawyer, I did as much to pretend I was a programmer as I could. My
 work-issued laptop crawled, so I partitioned it and did most of my work
