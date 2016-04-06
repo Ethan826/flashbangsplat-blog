@@ -122,8 +122,8 @@ unified spreadsheet, filter against a lengthy regular expression, pull
 in all related entries, and highlight the terms that matched. I wrote a
 Python script to relabel over a thousand PDF exhibits based on a
 spreadsheet correlating the exhibits’ Bates numbers with their exhibit
-numbers. I am also a member of my [current
-firm’s](http://www.kelleydrye.com) technology committee.
+numbers. I am also a member of my [current firm’s](http://www.kelleydrye.com)
+technology committee.
 
 I became serious about trying to change careers. I contemplated
 attending a bootcamp, but between my student loans and my family, it was
@@ -134,7 +134,9 @@ web languages as well as Clojure. As I became more focused on changing
 careers, I enrolled in Udacity and completed their Full-Stack Web
 Developer Nanodegree in one month (it’s scheduled as a six-to-nine month
 course). Most recently, I built a [diet tracker app](https://flashbangsplat.com/diet-tracker) to learn Angular 2,
-Express, and TypeScript.
+Express, and TypeScript, as well as a ClojureScript / React app to simulate 
+iterated games of the [prisoner’s dilemma](https://flashbangsplat.com/prisoner) 
+problem from game theory.
 
 ### Flash Bang Splat
 
