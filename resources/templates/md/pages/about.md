@@ -3,28 +3,39 @@
  :page-index 0
  :navbar? true}
 
-Welcome to my website. I am a recovering lawyer who, after spending several
-years trying to shoehorn programming and technology into every aspect of
-my job (sometimes to good effect, sometimes
-[not](https://xkcd.com/1319/)), has decided to make the jump to a career
-path doing what I actually like. Funny idea, that. Check out my
-[blog](https://flashbangsplat.com/blog). Here is my 
+Welcome to my website. I am a software apprentice at a web- and
+mobile-development consultancy. As a recovering lawyer who hated his
+job, it’s hard to overstate what a difference it makes to wake up in the
+morning and look forward to what I get to do at work. Check out my
+[blog](https://flashbangsplat.com/blog). Here is my
 [GitHub](https://github.com/Ethan826), my
 [LinkedIn](https://www.linkedin.com/in/ethan-kent-56b14010), and my
 [résumé](https://flashbangsplat.com/public/resume.pdf).
 
-### Projects
+### My work as an apprentice at Table XI
 
-I have been teaching myself programming for the last few years. I ramped up
-my focus around Thanksgiving last year, and especially so since February, when
-I decided to actively pursue a career change. I have worked on the following projects:
+I started as an apprentice at Table XI Partners, LLC, in August. Early
+in the apprenticeship I worked on coding exercises and internal
+projects. Now I spend most of my time working on client projects
+involving legacy projects with tens of thousands of lines of code. It
+has been an outstanding experience, and I’ve found the work enjoyable
+and challenging. I’m proud of the progress I’ve made.
+
+I have written up the work I’ve done during my apprenticeship in a blog
+[post](http://localhost:3000/blog/posts-output/2017-01-22-apprenticeship-1/).
+
+### Projects I did before the apprenticeship
+
+I have been teaching myself programming for the last few years. I ramped
+up my focus around Thanksgiving last year, and especially so since
+February, when I decided to actively pursue a career change. I have
+worked on the following projects:
 
 -   A ClojureScript/Reagent iterative prisoner’s dilemma simulator
     ([app](https://flashbangsplat.com/prisoner/) |
     [code](https://github.com/Ethan826/prisoners-dilemma) |
     [posts](https://flashbangsplat.com/blog/tags-output/prisoner%E2%80%99s%20dilemma/))
--   A full-stack Angular 2 / TypeScript toy diet tracker app
-    ([app](https://flashbangsplat.com/diet-tracker) |
+-   A full-stack Angular 2 / TypeScript toy diet tracker app 
     [code](https://github.com/Ethan826/diet-tracker) |
     [posts](https://flashbangsplat.com/blog/tags-output/diet%20tracker/))
 -   Numerous Udacity projects, including—
@@ -61,9 +72,9 @@ into strengths that I wanted to use in my career. That, and my wife
 hotel rooms would be a bad fit for being a good dad.
 
 I made a list of strengths I wanted to use and further
-develop---analytical skills, written communication, and the ability and
-desire to keep learning new things---and decided that law fit the bill.
-I studied hard for the LSAT, got a good score, and applied. I was
+develop—analytical skills, written communication, and the ability and
+desire to keep learning new things—and decided that law fit the bill. I
+studied hard for the LSAT, got a good score, and applied. I was
 delighted to be admitted to Harvard Law School, and moved to Boston,
 teaching the LSAT during the transition.
 
@@ -90,11 +101,12 @@ high-rise office towers working long hours merely to nullify one
 another’s work. It’s the triviality of the problems (who really cares
 which giant corporation eats the losses covered by an ambiguous
 indemnification clause). It’s the fearful, risk-averse, elitist, pompous
-culture. It’s the joylessness. It’s the [cargo-cult lawyering](https://twitter.com/mbutterick/status/105336038343450624).
-It’s the well-established partner who used to run---*run*---to the
-managing partner’s office several times a week. It’s the fact that I
-used to love talking and thinking about law, but practicing broke
-something inside of me.
+culture. It’s the joylessness. It’s the [cargo-cult
+lawyering](https://twitter.com/mbutterick/status/105336038343450624).
+It’s the well-established partner who used to run—*run*—to the managing
+partner’s office several times a week. It’s the fact that I used to love
+talking and thinking about law, but practicing broke something inside of
+me.
 
 #### Technology and programming
 
@@ -122,8 +134,8 @@ unified spreadsheet, filter against a lengthy regular expression, pull
 in all related entries, and highlight the terms that matched. I wrote a
 Python script to relabel over a thousand PDF exhibits based on a
 spreadsheet correlating the exhibits’ Bates numbers with their exhibit
-numbers. I am also a member of my [current firm’s](http://www.kelleydrye.com)
-technology committee.
+numbers. I am also a member of my [current
+firm’s](http://www.kelleydrye.com) technology committee.
 
 I became serious about trying to change careers. I contemplated
 attending a bootcamp, but between my student loans and my family, it was
@@ -133,14 +145,16 @@ C, C++, Haskell, OCaml, F\#, and D. I became especially interested in
 web languages as well as Clojure. As I became more focused on changing
 careers, I enrolled in Udacity and completed their Full-Stack Web
 Developer Nanodegree in one month (it’s scheduled as a six-to-nine month
-course). Most recently, I built a [diet tracker app](https://flashbangsplat.com/diet-tracker) to learn Angular 2,
-Express, and TypeScript, as well as a ClojureScript / React app to simulate 
-iterated games of the [prisoner’s dilemma](https://flashbangsplat.com/prisoner) 
-problem from game theory.
+course). Most recently, I built a [diet tracker
+app](https://flashbangsplat.com/diet-tracker) to learn Angular 2,
+Express, and TypeScript, as well as a ClojureScript / React app to
+simulate iterated games of the [prisoner’s
+dilemma](https://flashbangsplat.com/prisoner) problem from game theory.
 
 ### Flash Bang Splat
 
-Flash Bang Splat comes from [this list](http://blog.codinghorror.com/ascii-pronunciation-rules-for-programmers/)
+Flash Bang Splat comes from [this
+list](http://blog.codinghorror.com/ascii-pronunciation-rules-for-programmers/)
 of slang names for ASCII characters. Flash (\#), Bang (!), Splat (\*)
 has a nice ring and tells a short (if ambiguous and possibly woebegone)
 story. My logo is by
